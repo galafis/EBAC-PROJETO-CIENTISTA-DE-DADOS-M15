@@ -48,7 +48,7 @@ Este repositório contém uma análise exploratória completa dos dados de churn
 ## 👨‍💻 Autor
 
 Gabriel Demetrios Lafis  
-[Seu LinkedIn ou contato, se desejar]
+
 
 ---
 
